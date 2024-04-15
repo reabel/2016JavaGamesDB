@@ -2,7 +2,7 @@
 
 This is a general-purpose application meant to test and devlop Java skills while exploring new features. There are similar projects built in Node as well as a general population repo.
 
-## Running the app locally
+## Getting Started / Running the app locally
 
 The application is designed to run on maven. execute the following command:
 
@@ -30,8 +30,6 @@ The following was discovered as part of building this project:
 
 ## Getting Started
 
-[This spring-boot intro was followed when starting the project](https://spring.io/guides/gs/spring-boot)
-
 ### Reference Documentation
 
 For further reference, please consider the following sections:
@@ -39,3 +37,6 @@ For further reference, please consider the following sections:
 - [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 - [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.2.3/maven-plugin/reference/html/)
 - [Create an OCI image](https://docs.spring.io/spring-boot/docs/3.2.3/maven-plugin/reference/html/#build-image)
+- The Followiing were followed when starting the project:
+  - [spring-boot intro](https://spring.io/guides/gs/spring-boot) was followed when starting the project.
+  - [Serving Web Content](https://spring.io/guides/gs/serving-web-content)
